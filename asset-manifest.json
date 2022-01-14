@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DanilHN/stopwatch-2.git/static/css/main.be796f42.css",
-    "main.js": "/DanilHN/stopwatch-2.git/static/js/main.3ea85ea3.js",
-    "static/js/787.96a57d40.chunk.js": "/DanilHN/stopwatch-2.git/static/js/787.96a57d40.chunk.js",
-    "index.html": "/DanilHN/stopwatch-2.git/index.html",
-    "main.be796f42.css.map": "/DanilHN/stopwatch-2.git/static/css/main.be796f42.css.map",
-    "main.3ea85ea3.js.map": "/DanilHN/stopwatch-2.git/static/js/main.3ea85ea3.js.map",
-    "787.96a57d40.chunk.js.map": "/DanilHN/stopwatch-2.git/static/js/787.96a57d40.chunk.js.map"
+    "main.css": "/stopwatch-2/static/css/main.be796f42.css",
+    "main.js": "/stopwatch-2/static/js/main.8029cdbc.js",
+    "static/js/787.96a57d40.chunk.js": "/stopwatch-2/static/js/787.96a57d40.chunk.js",
+    "index.html": "/stopwatch-2/index.html",
+    "main.be796f42.css.map": "/stopwatch-2/static/css/main.be796f42.css.map",
+    "main.8029cdbc.js.map": "/stopwatch-2/static/js/main.8029cdbc.js.map",
+    "787.96a57d40.chunk.js.map": "/stopwatch-2/static/js/787.96a57d40.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.be796f42.css",
-    "static/js/main.3ea85ea3.js"
+    "static/js/main.8029cdbc.js"
   ]
 }
