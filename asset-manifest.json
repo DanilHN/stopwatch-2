@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DanilHN/stopwatch-2.git/static/css/main.be796f42.css",
+    "main.js": "/DanilHN/stopwatch-2.git/static/js/main.3ea85ea3.js",
+    "static/js/787.96a57d40.chunk.js": "/DanilHN/stopwatch-2.git/static/js/787.96a57d40.chunk.js",
+    "index.html": "/DanilHN/stopwatch-2.git/index.html",
+    "main.be796f42.css.map": "/DanilHN/stopwatch-2.git/static/css/main.be796f42.css.map",
+    "main.3ea85ea3.js.map": "/DanilHN/stopwatch-2.git/static/js/main.3ea85ea3.js.map",
+    "787.96a57d40.chunk.js.map": "/DanilHN/stopwatch-2.git/static/js/787.96a57d40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be796f42.css",
+    "static/js/main.3ea85ea3.js"
+  ]
+}
